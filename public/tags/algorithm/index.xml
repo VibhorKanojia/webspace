@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithm on vibhor kanojia</title>
+    <link>http://vibhorkanojia.github.io/tags/algorithm/</link>
+    <description>Recent content in Algorithm on vibhor kanojia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jan 2019 00:36:07 +0530</lastBuildDate>
+    
+	<atom:link href="http://vibhorkanojia.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Binary Search</title>
+      <link>http://vibhorkanojia.github.io/algorithms/bs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/bs/</guid>
+      <description>&lt;p&gt;Binary Search is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array; if they are unequal, the half in which the target cannot lie is eliminated and the search continues on the remaining half until it is successful. If the search ends with the remaining half being empty, the target is not in the array.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Merge Sort</title>
+      <link>http://vibhorkanojia.github.io/algorithms/ms/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/ms/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Merge Sort is one of the prime examples of a class of algorithms known as Divide and conquer. The basic idea of such algorithms is to divide the space into two equal halves recursively until they become small enough to be solved directly, then come up with a way to combine the solution of these smaller halves.
+&lt;p&gt; Based on this idea, merge sort recursively divides the input array and sort the individual sub arrays. Then later, combine the two sorted halves.
+&lt;p&gt; The implementation of this algorithm is very important and often serves as the base to solve a variety of problems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick Sort/Select</title>
+      <link>http://vibhorkanojia.github.io/algorithms/qs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/qs/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Quick Sort is an incredibly interesting sorting algorithm. The worst case time complexity of this algorithm is O(N&lt;sup&gt;2&lt;/sup&gt;), but when implemented well, it can be about two or three times faster than its main competitors, merge sort and heap sort. Another good thing is that quick sort is an in-place sorting algorithm.
+&lt;p&gt;The only drawback is that the efficient implementations of this algorithm are not stable in nature, i.e., it doesn&amp;rsquo;t preserve the relative order of equal elements in the output.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Depth First Search</title>
+      <link>http://vibhorkanojia.github.io/algorithms/dfs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:35:46 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/dfs/</guid>
+      <description>&lt;p&gt;Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. One starts at the root (selecting some arbitrary node as the root in the case of a graph) and explores as far as possible along each branch before backtracking.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>http://vibhorkanojia.github.io/algorithms/recursion/</link>
+      <pubDate>Thu, 10 Jan 2019 00:36:45 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/recursion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Programming</title>
+      <link>http://vibhorkanojia.github.io/algorithms/dp/</link>
+      <pubDate>Thu, 10 Jan 2019 00:36:15 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/dp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backtracking</title>
+      <link>http://vibhorkanojia.github.io/algorithms/backtracking/</link>
+      <pubDate>Thu, 10 Jan 2019 00:35:59 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/backtracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

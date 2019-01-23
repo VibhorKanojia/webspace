@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vibhor kanojia</title>
+    <link>http://vibhorkanojia.github.io/</link>
+    <description>Recent content on vibhor kanojia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Jan 2019 21:35:10 +0530</lastBuildDate>
+    
+	<atom:link href="http://vibhorkanojia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://vibhorkanojia.github.io/about/</link>
+      <pubDate>Sat, 19 Jan 2019 21:35:10 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/about/</guid>
+      <description> &amp;hellip;.
+ </description>
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>http://vibhorkanojia.github.io/data_structures/vector/</link>
+      <pubDate>Sun, 20 Jan 2019 21:31:55 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/vector/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Vectors are same as dynamic arrays with the ability to resize themselves automatically when an element is inserted or deleted, with their storage being handled automatically by the container. Vector elements are placed in contiguous storage so that they can be accessed and traversed using iterators in O(1) time.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Heap</title>
+      <link>http://vibhorkanojia.github.io/data_structures/heap/</link>
+      <pubDate>Sun, 20 Jan 2019 21:31:44 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/heap/</guid>
+      <description>&lt;p&gt;Many a times we need a data structure which can be used to access elements based on certain criteria, for e.g., from smallest to largest element. A Heap or A Priority Queue is a data structure which stores elements in an orderly fashion, such that the element with highest priority is at the top of the heap.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AVL Tree</title>
+      <link>http://vibhorkanojia.github.io/data_structures/avl_tree/</link>
+      <pubDate>Sun, 20 Jan 2019 21:28:50 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/avl_tree/</guid>
+      <description>&lt;p&gt;Binary Trees provide O(logN) average case time complexity for insert, delete, and search operations. But depending upon the order of insert, we might form an unbalanced tree which makes the time complexity linear. AVL Trees are self-balancing binary trees that can guarantee O(logN) time complexity even in the worst case. The only drawback is that the structure of the tree changes as we add more and more nodes. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Disjoint Set</title>
+      <link>http://vibhorkanojia.github.io/data_structures/disjoint_set/</link>
+      <pubDate>Sun, 20 Jan 2019 21:19:06 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/disjoint_set/</guid>
+      <description>&lt;p&gt;Facebook has more than 2 billion users and, very often, given two users A and B, Facebook needs to find if A and B are connected. Such information can be really useful in features like friend suggestions, privacy protections, and various data analysis tasks.&lt;/p&gt;
+&lt;p&gt;One way to approach this problem is by doing a BFS, starting with A as source node and expanding the graph by visiting A&#39;s friends and stopping the search when we reach B. This approach will work for small datasets, but when you consider over 2 billion users each having around 500 friends, BFS ends up using a lot of space, and unnecessary expansion of graph leads to performance degradation. For example, imagine a scenario where A is infact not connnected to B! &lt;/p&gt;
+&lt;p&gt;One can think of various optimizations to improve the performance, and develop better heuristics to guide the graph expansion (A* algorithm), but it still won&#39;t give the satisfactory results. Keep in mind that the graph is not static, and the graph may have new connections over time.&lt;/p&gt;
+&lt;p&gt; What if we could answer this query in O(logN) time? Even better, what if we could answer this query in O(1) time?&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Disjoint Sets to the rescue&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Binary Tree</title>
+      <link>http://vibhorkanojia.github.io/data_structures/binary_tree/</link>
+      <pubDate>Sun, 20 Jan 2019 17:18:39 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/binary_tree/</guid>
+      <description>&lt;p&gt;Unlike Arrays, Linked Lists, Stacks and Queues, which are linear data structures, trees are hierarchical data structures. Many real world datasets are hierarchical by nature and it makes more sense to store them in a tree data structure. I&#39;ll be discussing a special type of trees, Binary Trees.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Array</title>
+      <link>http://vibhorkanojia.github.io/data_structures/array/</link>
+      <pubDate>Sun, 20 Jan 2019 17:09:12 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/data_structures/array/</guid>
+      <description>&lt;p&gt;In C++, arrays can be used to store a collection of elements having the same type, where each element is uniquely identified by an index. Elements in an array are stored consecutively, and hence, given the address of the first element, the address of each element can be calculated using a mathematical formula. This provides O(1) access to each element of the array.&lt;/p&gt;
+&lt;p&gt;The size of an array means the number of elements it can hold.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Binary Search</title>
+      <link>http://vibhorkanojia.github.io/algorithms/bs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/bs/</guid>
+      <description>&lt;p&gt;Binary Search is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array; if they are unequal, the half in which the target cannot lie is eliminated and the search continues on the remaining half until it is successful. If the search ends with the remaining half being empty, the target is not in the array.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Merge Sort</title>
+      <link>http://vibhorkanojia.github.io/algorithms/ms/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/ms/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Merge Sort is one of the prime examples of a class of algorithms known as Divide and conquer. The basic idea of such algorithms is to divide the space into two equal halves recursively until they become small enough to be solved directly, then come up with a way to combine the solution of these smaller halves.
+&lt;p&gt; Based on this idea, merge sort recursively divides the input array and sort the individual sub arrays. Then later, combine the two sorted halves.
+&lt;p&gt; The implementation of this algorithm is very important and often serves as the base to solve a variety of problems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quick Sort/Select</title>
+      <link>http://vibhorkanojia.github.io/algorithms/qs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:36:07 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/qs/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Quick Sort is an incredibly interesting sorting algorithm. The worst case time complexity of this algorithm is O(N&lt;sup&gt;2&lt;/sup&gt;), but when implemented well, it can be about two or three times faster than its main competitors, merge sort and heap sort. Another good thing is that quick sort is an in-place sorting algorithm.
+&lt;p&gt;The only drawback is that the efficient implementations of this algorithm are not stable in nature, i.e., it doesn&amp;rsquo;t preserve the relative order of equal elements in the output.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breadth First Search</title>
+      <link>http://vibhorkanojia.github.io/algorithms/bfs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:35:46 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/bfs/</guid>
+      <description>&lt;p&gt;Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root (or some arbitrary node of a graph) and explores the neighbor nodes first, before moving to the next level neighbors.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Depth First Search</title>
+      <link>http://vibhorkanojia.github.io/algorithms/dfs/</link>
+      <pubDate>Sun, 20 Jan 2019 00:35:46 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/dfs/</guid>
+      <description>&lt;p&gt;Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. One starts at the root (selecting some arbitrary node as the root in the case of a graph) and explores as far as possible along each branch before backtracking.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>http://vibhorkanojia.github.io/posts/algorithms/</link>
+      <pubDate>Sat, 19 Jan 2019 21:39:09 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/posts/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures</title>
+      <link>http://vibhorkanojia.github.io/posts/data-structures/</link>
+      <pubDate>Sat, 19 Jan 2019 21:39:09 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/posts/data-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taboo</title>
+      <link>http://vibhorkanojia.github.io/posts/taboo/</link>
+      <pubDate>Sat, 19 Jan 2019 21:39:09 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/posts/taboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Player Maze Game</title>
+      <link>http://vibhorkanojia.github.io/posts/maze/</link>
+      <pubDate>Sat, 19 Jan 2019 21:39:09 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/posts/maze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morris Traversal</title>
+      <link>http://vibhorkanojia.github.io/algorithms/mt/</link>
+      <pubDate>Sat, 19 Jan 2019 00:36:50 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/mt/</guid>
+      <description>&lt;p&gt;As discussed before, there are various ways to traverse a binary tree. Inorder traversal is very popular as it visits nodes in a sorted manner if the tree is a binary search tree.&lt;/p&gt;
+&lt;p&gt;The common implementation of inorder traversal is by recursion. But recursive implementation is not considered to be O(1) space solution due to the recursion stack; it is in fact O(logN). Inorder traversal can also be implemented iteratively by using a stack data structure, but even this implementation will have O(N) space complexity. There exists an algorithm called Morris Traversal which guarantees iterative inorder traversal of a binary tree with O(1) space complexity.&lt;/p&gt; 
+&lt;p&gt; Note that this is a slightly advanced algorithm and should be considered only when the normal recursive implementation results in TLE.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prime Number Generation / Sieve</title>
+      <link>http://vibhorkanojia.github.io/algorithms/sieve/</link>
+      <pubDate>Sat, 19 Jan 2019 00:36:50 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/sieve/</guid>
+      <description>&lt;p&gt;Sometimes we encounter problems which are mathematical in nature, and involve concepts of number theory. More often than not, solving these problems require us to use prime numbers. Hence, we should know the Sieve (Sieve of Eratosthenes) algorithm to be able to generate prime numbers efficiently.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>http://vibhorkanojia.github.io/algorithms/recursion/</link>
+      <pubDate>Thu, 10 Jan 2019 00:36:45 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/recursion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Programming</title>
+      <link>http://vibhorkanojia.github.io/algorithms/dp/</link>
+      <pubDate>Thu, 10 Jan 2019 00:36:15 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/dp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backtracking</title>
+      <link>http://vibhorkanojia.github.io/algorithms/backtracking/</link>
+      <pubDate>Thu, 10 Jan 2019 00:35:59 +0530</pubDate>
+      
+      <guid>http://vibhorkanojia.github.io/algorithms/backtracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

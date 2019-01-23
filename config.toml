@@ -1,0 +1,58 @@
+baseurl = "http://vibhorkanojia.github.io"
+title = "vibhor kanojia"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "vkanojia"
+
+[params]
+    author = "Vibhor Kanojia"
+    description = "Vibhor's personal space"
+    keywords = "blog,developer,personal"
+    info = "Software Engineer"
+    avatarurl = "images/my_avatar.jpg"
+    footercontent = ""
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = false
+    hideCopyright = false
+
+
+    rtl = false
+
+    # Use inverted colors
+    inverted = false
+
+    # Custom CSS
+    custom_css = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/VibhorKanojia/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/vibhor-kanojia-802778146/"
+
+
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+[[menu.main]]
+    name = "Blogs"
+    weight = 20
+    url = "/posts/"
